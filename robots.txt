@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+Sitemap: https://www.jinyuconsulting.com/sitemap.xml
